@@ -1,0 +1,45 @@
+﻿body {
+    font-family: XB Kayhan,segoe ui,sans-serif;
+        zoom:120%;
+}
+
+div#content h1, div#content h2, div#content #firstHeading, div#content .mw-editsection, .mw-body .mw-editsection-like, div#content #toc h2, div#content .toc h2, #template-documentation, #documentation-meta-data {
+    font-family: iransansweb,'Iranian Serif','Noto Kufi Arabic','Droid Arabic Naskh','Iranian Sans','DejaVu Sans',serif;
+}
+
+#mw-panel {font-family: iransansweb;}
+#mw-panel li {line-height: 1.3em !important;}
+
+p,li {
+    line-height: 2em;
+    letter-spacing: -.5px;
+    margin: 0.5em 0;
+/*     font-size: .8em; */
+    color: #333;
+}
+
+p {line-height: 2em !important;}
+
+.toc li, .references li {line-height: 1.5em;}
+
+#siteSub {font-style:italic;color:#888}
+
+#p-personal li
+{
+    font-family: iransansweb;
+    font-size: 10px;
+    padding-right: 5px;
+}
+
+#left-navigation li, #right-navigation li {font-size: 0.8em;}
+.vectorMenu h3 span {font-size: 10px !important;}
+
+#simpleSearch #searchInput {
+vertical-align : super;
+font-size: 11px !important;
+}
+
+input#searchInput::-webkit-input-placeholder {color: #aaa !important;}
+
+.mw-content-rtl a {color: #e4571c;}
+.mw-content-rtl a:visited {color: #ba0000;}
