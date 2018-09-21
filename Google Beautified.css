@@ -15,10 +15,10 @@ a:link, .w, #prs a:visited, #prs a:active, .q:active, .q:visited, .kl:active, .t
 
 .sbsb_c.gsfs {font-family:Helvetica, IranSans;line-height:2em;}
 
-/*فواصل و خطوط باکسها*/
+/*lines between*/
 .g{border-bottom:1px solid rgba(0,0,0,0.07);padding-bottom:20px;}
 
-/*آدرس سبز*/
+/*green address*/
 cite,cite a:link,cite a:visited,.cite,.cite:link{font-family:Helvetica, IranSans;color:#6cdf90 !important;font-weight:normal;}
 
 #ires .kv {height:25px !important;}
@@ -30,15 +30,15 @@ cite,cite a:link,cite a:visited,.cite,.cite:link{font-family:Helvetica, IranSans
 #res a:hover {color:royalblue;text-decoration:none !important;} 
 #res a:visited {color:#a363f3;}
 
-/*عنوان‌ها*/
+/*titles*/
 #res h3.r {overflow:visible;}
-h3 a {font-family:Helvetica, IranSansBold;font-weight:Bold;letter-spacing:-.5px;line-height:2em;}
+h3 a {font-family:Helvetica, IranSans;letter-spacing:-.7px;line-height:2em;}
 
-/*توضیحات*/
+/*description*/
 .st {line-height:2em;}
 
 /*translate this page*/
 ._SWb a.fl {font-size:12px;color:#808080 !important;}
-.sbct {line-height:40px;}
+.sbct {line-height:40px;
+padding: 8px 16px;}
 }
-
