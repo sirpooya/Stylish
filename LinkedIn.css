@@ -46,6 +46,7 @@
     .nav-item__link.active:not(.ember-transitioning-out) .nav-item__icon {color:#0073B0;}
     .nav-item__link--underline::after {border-bottom-color: #0073B0;}
     .nav-item__link:hover .nav-item__badge, .nav-item__link:hover .nav-item__icon {color:royalblue;}
+    .nav-item__link:hover .nav-item__badge-count {color:white;}
     
     footer .nav-footer__container {background-color:#E4EAEE !important;}
     }
