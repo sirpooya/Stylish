@@ -21,6 +21,9 @@
     .profile-rail-card, .feed-pages-admin-module {width: 250px; margin-top: 15px;}
     .feed-shared-navigation-module, .feed-right-rail, .right-rail {display:none;}
     
+    .pv-content__right-rail {margin-top:100px;}
+    .artdeco-container-card {box-shadow:none;}
+
     .Elevation-2dp {box-shadow: 0 0 0 1px rgba(0, 0, 0, 0) !important}
     .sharing-share-box--is-unfocused,.container {box-shadow: 0 0 0 1px rgba(0,0,0,.0) !important;}
     
