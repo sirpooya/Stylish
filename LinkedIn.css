@@ -19,16 +19,18 @@
     
     
     .profile-rail-card, .feed-pages-admin-module {width: 250px; margin-top: 15px;}
-    .feed-shared-navigation-module, .feed-right-rail, .right-rail {display:none;}
+    .feed-shared-navigation-module, .feed-right-rail {display:none;}
     
     .pv-content__right-rail {margin-top:100px;}
-    .artdeco-container-card {box-shadow:none;}
+    .artdeco-container-card,.artdeco-card,.container-with-shadow,.jobs-box {box-shadow:none;}
 
     .Elevation-2dp {box-shadow: 0 0 0 1px rgba(0, 0, 0, 0) !important}
-    .sharing-share-box--is-unfocused,.container {box-shadow: 0 0 0 1px rgba(0,0,0,.0) !important;}
-    
+    .sharing-share-box--is-unfocused,.container {box-shadow: 0 0 0 1px rgba(0,0,0,.0) !important;}    
     .neptune-grid .right-rail, .neptune-grid .right-rail .right-rail-container {margin-top:20px;}
 
+    .left-rail .mn-connections-summary, .nt-content__rail-container--left {width: 240px; margin-top: 15px;}
+    
+    
     .feed-shared-control-menu-trigger {
         color: rgba(179, 179, 179, 0.6);}
     
