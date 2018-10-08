@@ -24,7 +24,8 @@
     .Elevation-2dp {box-shadow: 0 0 0 1px rgba(0, 0, 0, 0) !important}
     .sharing-share-box--is-unfocused,.container {box-shadow: 0 0 0 1px rgba(0,0,0,.0) !important;}
     
-    
+    .neptune-grid .right-rail, .neptune-grid .right-rail .right-rail-container {margin-top:20px;}
+
     .feed-shared-control-menu-trigger {
         color: rgba(179, 179, 179, 0.6);}
     
